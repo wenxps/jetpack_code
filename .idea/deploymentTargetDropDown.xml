@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="LiveData">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="common">
+        <State />
+      </entry>
+      <entry key="course">
+        <State />
+      </entry>
+      <entry key="home">
+        <State />
+      </entry>
+      <entry key="login">
+        <State />
+      </entry>
+      <entry key="mine">
+        <State />
+      </entry>
+      <entry key="study">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
