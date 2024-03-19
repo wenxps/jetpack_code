@@ -56,6 +56,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
+    implementation("com.squareup.okhttp3:benchmarks:3.12.13")
     kapt("androidx.lifecycle:lifecycle-common-java8:2.7.0")
 
     implementation("androidx.room:room-runtime:2.6.1")
